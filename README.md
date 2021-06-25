@@ -1,21 +1,23 @@
 # Lumos_harry.ver.23.25
 
 ## Overview
-Ewha Woman's University
-Electronic & Electrical Engeneering College
+Ewha Woman's University   
+Electronic & Electrical Engeneering College   
 
-2021-1 graduation project
-Team lumos
-Eungyeong Ham
-Jeongyeon Yoon
-Hyeonyoung Cho
-Soyeon Park
+2021-1 graduation project   
+#### Team lumos   
+Eungyeong Ham   
+Jeongyeon Yoon   
+Hyeonyoung Cho   
+Soyeon Park   
 
 ### platform
 
 * Jeson nano 4GB + jetbot SDX image 4.41 ver
 * Arduino UNO
 * Ubuntu 18.04
+* Cuda 10.2.89
+* Python 2.7 & 3.6
 * ROS melodic
 * ROSserial
 
